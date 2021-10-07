@@ -1,4 +1,4 @@
 # ksiegarnia
 <div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+    <img src="/screen/screen1.jpg" width="400px"</img> 
 </div>
