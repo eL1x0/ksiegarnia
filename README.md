@@ -1,3 +1,3 @@
 # ksiegarnia
-![Alt text](https://postimg.cc/jDDr8h8P)
+![image](https://postimg.cc/jDDr8h8P)
 
