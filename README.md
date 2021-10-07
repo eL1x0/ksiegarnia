@@ -1,2 +1,2 @@
 # ksiegarnia
-![ScreenShot](/screen/screen1.jpg)
+<img src="../<branch>/screenshot.jpg?raw=true" width="100" height="100" />
