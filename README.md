@@ -1,2 +1,2 @@
 # ksiegarnia
-<img src="../<branch>/screen1.jpg?raw=true" width="100" height="100" />
+![Alt text](/relative/path/screen/screen1.jpg?raw=true "Optional Title")
