@@ -1,8 +1,14 @@
 # ksiegarnia
-<a href="https://postimg.cc/jDDr8h8P" target="_blank"><img src="https://i.postimg.cc/jDDr8h8P/screen1.jpg" alt="screen1"/></a><br/><br/>
-<a href="https://postimg.cc/z3qYmNtJ" target="_blank"><img src="https://i.postimg.cc/z3qYmNtJ/screen2.jpg" alt="screen2"/></a><br/><br/>
-<a href="https://postimg.cc/YvTBTmVV" target="_blank"><img src="https://i.postimg.cc/YvTBTmVV/screen3.jpg" alt="screen3"/></a><br/><br/>
-<a href="https://postimg.cc/WtSLTyC0" target="_blank"><img src="https://i.postimg.cc/WtSLTyC0/screen4.jpg" alt="screen4"/></a><br/><br/>
-<a href="https://postimg.cc/G8x0Bg2w" target="_blank"><img src="https://i.postimg.cc/G8x0Bg2w/screen5.jpg" alt="screen5"/></a><br/><br/>
-<a href="https://postimg.cc/bGbfPwfv" target="_blank"><img src="https://i.postimg.cc/bGbfPwfv/screen6.jpg" alt="screen6"/></a><br/><br/>
-<a href="https://postimg.cc/ftNnRQMf" target="_blank"><img src="https://i.postimg.cc/ftNnRQMf/screen7.jpg" alt="screen7"/></a><br/><br/>
+[url=https://postimg.cc/jDDr8h8P][img]https://i.postimg.cc/g2Dk2S8S/screen1.jpg[/img][/url]
+
+[url=https://postimg.cc/z3qYmNtJ][img]https://i.postimg.cc/xjzfzTLb/screen2.jpg[/img][/url]
+
+[url=https://postimg.cc/YvTBTmVV][img]https://i.postimg.cc/W41pFG72/screen3.jpg[/img][/url]
+
+[url=https://postimg.cc/WtSLTyC0][img]https://i.postimg.cc/pXM2YbBc/screen4.jpg[/img][/url]
+
+[url=https://postimg.cc/G8x0Bg2w][img]https://i.postimg.cc/V63zV3P6/screen5.jpg[/img][/url]
+
+[url=https://postimg.cc/bGbfPwfv][img]https://i.postimg.cc/zf2znydT/screen6.jpg[/img][/url]
+
+[url=https://postimg.cc/ftNnRQMf][img]https://i.postimg.cc/3RyK936V/screen7.jpg[/img][/url]
